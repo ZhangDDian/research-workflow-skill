@@ -295,4 +295,4 @@ docs/research/INDEX.md
 
 ## License
 
-目前未声明 License。公开分享前可按需要补充 MIT、Apache-2.0 或其他许可证。
+MIT
